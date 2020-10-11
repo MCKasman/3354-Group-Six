@@ -1,0 +1,32 @@
+Agenda Software
+1 Views
+	1.1 Monthly view: show all days in a month, and event snippet for each day
+	1.2 Weekly view: show all days in a week, and event snippet for each day
+	1.3 Daily view: show all events in a day, sorted by their starting time
+	1.4 Agenda view: show all events in future as a list
+	1.5 Event view: show event details if any
+	1.6 To-do view: show all to-do lists, sorted by date
+		1.6.1 Expanded to-do view: show all to-do items of specific to-do list
+	1.7 Note view: show all notes categorized in folders and notes within folders sorted by date
+		1.7.1: Selected note view: show note details of a specific note
+2 Events
+	2.1 Add an event with title, details, color category, and starting and ending time
+	2.2 Add a to-do list for a specific day
+	2.3 Check time conflicts when adding events
+	2.4 Add weekly periodical events
+	2.5 Edit & delete events
+	2.6 Edit, delete, and check off to-do list items
+	2.7 Event alert
+	2.8 Color marking for different category of events
+3 Share
+	3.1 Send note, folder, to-do list, or event to another calendar user through email
+	3.2 Allow another user to view monthly calendar and event blocks
+	3.3 Change to public or private status for note, folder, to-do list, event, and calendar
+4 Other
+	4.1 Calendar will have pre-loaded holiday events
+	4.2 Note taking will have all features of a word editor
+	4.3 Note taking will support stylus editing
+	4.4 Outside resources on productivity are linked to aid student
+	4.5 Contact and support information provided
+	4.6 User can change profile details(name, email, password) 
+	4.7 Zoom in/out, and scroll support when necessary
