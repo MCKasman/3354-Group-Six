@@ -5,7 +5,7 @@ CS 3354 Software Engineering Final Project (Group Six)
 
 A mobile app that organizes and displays homework, quizzes, tests, etc. in an agenda format with to-do list and note taking capabilities
 
-###Group Members:
+### Group Members:
     Alexander Ho
     Megan Ingram
     Michael Kasman
