@@ -1,0 +1,5 @@
+- Login Page
+- Signup Page
+- Home Page
+- Notes Page
+- Profile Page
